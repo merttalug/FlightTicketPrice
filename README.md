@@ -1,7 +1,7 @@
 # FlightTicketPrice
 A program that calculates the ticket prices that users have to pay by taking as input the distance they want to fly, their age, and whether they prefer a one-way or round-trip ticket.
 The program first calculates the initial price by multiplying the distance passengers want to fly by $0.1 per kilometer.
-> distance(per km) * $0.1 = Initial Price
+> distance(km) * $0.1(per km) = Initial Price
 
 `initPrice= dist*0.1;`
 
